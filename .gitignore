@@ -15,4 +15,5 @@ notebooks/
 *.pyzw
 *.pyzwz
 *.pyzwzw
-*.pyzwzwz
+*.pyzwzwz.cursor/
+.cursor/
